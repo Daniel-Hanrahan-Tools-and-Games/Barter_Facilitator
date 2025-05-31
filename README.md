@@ -3,6 +3,8 @@ An application that facilitates barter over TOR.
 
 the mysql version I use is: 8.0.42-0
 
+I have no intention of adding addon mod support to this application because I want every possible thing for this app to be in the base app.
+
 <h2>The instructions are used for Linux Mint so look for differences with your OS and adapt these instructions to your OS</h2>
 
 <h3>Prerequisites for Rust and Application</h3>
