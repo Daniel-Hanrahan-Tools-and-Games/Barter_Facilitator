@@ -6,7 +6,7 @@ An application that facilitates barter over TOR.
 <h3>Prerequisites for Rust and Application</h3>
 <ol>
   <li>Install rust from here: https://www.rust-lang.org/tools/install</li>
-  <li>The application has no database url so you are going to have to type it in and there are instruction and/or helpful comments in the Barter_Facilitator.rs file</li>
+  <li>The application has no database_url so you are going to have to type it in and there are instruction and/or helpful comments in the Barter_Facilitator.rs file</li>
 </ol>
 
 <h3>Prerequisites for Barter_Facilitator database</h3>
