@@ -29,7 +29,7 @@ An application that facilitates barter over TOR.
 <ol>
   <li>type this in terminal then enter: sudo apt install tor</li>
   <li>type this in terminal then enter: sudo systemctl start tor</li>
-  <li>Add this to torrc file at the very bottom of config file: HiddenServiceDir /var/lib/tor/mysql_service/
+  <li>Add this to torrc file at the very bottom of config file, the HiddenServiceDir and HiddenServicePort parts are 2 different lines: HiddenServiceDir /var/lib/tor/mysql_service/
 HiddenServicePort 3306 127.0.0.1:3306
 </li>
   <li>type this in terminal then enter: sudo systemctl restart tor</li>
