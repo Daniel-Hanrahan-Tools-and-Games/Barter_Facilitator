@@ -1,6 +1,8 @@
 # Barter_Facilitator
 An application that facilitates barter over TOR.
 
+the mysql version I use is: 8.0.42-0
+
 <h2>The instructions are used for Linux Mint so look for differences with your OS and adapt these instructions to your OS</h2>
 
 <h3>Prerequisites for Rust and Application</h3>
@@ -8,8 +10,6 @@ An application that facilitates barter over TOR.
   <li>Install rust from here: https://www.rust-lang.org/tools/install</li>
   <li>The application has no database_url so you are going to have to type it in and there are instruction and/or helpful comments in the Barter_Facilitator.rs file</li>
 </ol>
-
-mysql version I use is: 8.0.42-0
 
 <h3>Prerequisites for Barter_Facilitator database</h3>
 <ol>
