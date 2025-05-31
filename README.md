@@ -1,5 +1,5 @@
 # Barter_Facilitator
-An application that facilitates barter over TOR.
+An application that facilitates barter over TOR and it figures out the value of products.
 
 the mysql version I use is: 8.0.42-0
 
