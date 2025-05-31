@@ -9,6 +9,8 @@ An application that facilitates barter over TOR.
   <li>The application has no database_url so you are going to have to type it in and there are instruction and/or helpful comments in the Barter_Facilitator.rs file</li>
 </ol>
 
+mysql version I use is: 8.0.42-0
+
 <h3>Prerequisites for Barter_Facilitator database</h3>
 <ol>
   <li>type this in terminal then enter: sudo apt install mysql-server</li>
