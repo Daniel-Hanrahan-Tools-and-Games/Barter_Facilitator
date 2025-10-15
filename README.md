@@ -52,3 +52,5 @@ HiddenServicePort 3306 127.0.0.1:3306
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/Barter_Facilitator">Repository Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
+
+Contributors Needed
